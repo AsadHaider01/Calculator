@@ -5,4 +5,4 @@
 - HTML
 - CSS
 - javascript
-- jQuery
+
